@@ -27,6 +27,7 @@ sidebar_position: 4
 - [死にトリ | ネットの居場所ポータルサイト「死にたい」のトリセツ](https://shinitori.net/docs/)
 
 ### 不登校
+
 - [不登校情報センター](http://www.futoko.info/)
 
 ### ひきこもり
@@ -34,8 +35,13 @@ sidebar_position: 4
 - [ひきこもり新聞](http://www.hikikomori-news.com/)
 
 ### 鬱
+
 - [みんなのうつ病体験記](https://minutsu.com/)
 - [こころの陽だまり｜うつ病の情報・サポートサイト](https://www.cocoro-h.jp/)
+
+### 発達障害
+
+- [健常者エミュレータ事例集](https://healthy-person-emulator.org/)
 
 ## 障害福祉
 
