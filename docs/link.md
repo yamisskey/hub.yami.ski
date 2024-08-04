@@ -21,6 +21,7 @@ sidebar_position: 4
 - [にゃるらのTwitter2](https://discord.com/invite/ewTvH9GZZr)
 
 ## 当事者体験記
+
 ### 不登校
 
 - [不登校情報センター](http://www.futoko.info/)
@@ -40,8 +41,11 @@ sidebar_position: 4
 
 ## 障害福祉
 
+### 検索
 - [障害福祉サービス事業所検索 - WAM NET](https://www.wam.go.jp/sfkohyoout/COP000100E0000.do)
 - [爆速AIマイ制度ナビ | 野生のデジタル庁](https://bakusoku-myseido-navi.yuiseki.net/)
+
+### 行政
 - [まもろうよ　こころ｜厚生労働省](https://www.mhlw.go.jp/mamorouyokokoro/)
 - [生きづらびっと](https://yorisoi-chat.jp/)
 - [ネットの居場所ポータルサイト「死にたい」のトリセツ](https://shinitori.net/)
