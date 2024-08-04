@@ -6,18 +6,14 @@ sidebar_position: 4
 
 ## コミュニティ
 
-### Misskey
+### Fediverse
 
 - [やみすきー](https://yami.ski/)
 - [しゃふすきー](https://shahu.ski/)
 - [わくわく保育園](https://redfuku.com/)
 - [Misskey精神疾患部 | Misskey.io](https://misskey.io/channels/9b8huyo5e3)
 - [Misskey発達障害部 | Misskey.io](https://misskey.io/channels/9pw71d6krs4602af)
-
-### Mastodon
-
 - [mental.social](https://mental.social/)
-- [four-nine.club](https://four-nine.club/)
 
 ### Discord
 
