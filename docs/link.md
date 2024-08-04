@@ -20,12 +20,7 @@ sidebar_position: 4
 - [病みサー公式HP - メンバー募集](https://yamiserver.com/)
 - [にゃるらのTwitter2](https://discord.com/invite/ewTvH9GZZr)
 
-## 情報提供
-
-### 希死念慮
-
-- [死にトリ | ネットの居場所ポータルサイト「死にたい」のトリセツ](https://shinitori.net/docs/)
-
+## 当事者体験記
 ### 不登校
 
 - [不登校情報センター](http://www.futoko.info/)
