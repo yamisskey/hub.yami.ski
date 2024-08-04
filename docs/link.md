@@ -45,7 +45,13 @@ sidebar_position: 4
 - [障害福祉サービス事業所検索 - WAM NET](https://www.wam.go.jp/sfkohyoout/COP000100E0000.do)
 - [爆速AIマイ制度ナビ | 野生のデジタル庁](https://bakusoku-myseido-navi.yuiseki.net/)
 
-### 行政
+### 電話
+
 - [まもろうよ　こころ｜厚生労働省](https://www.mhlw.go.jp/mamorouyokokoro/)
+- [チャイルドライン](https://childline.or.jp/)
+
+### 行政
+
 - [生きづらびっと](https://yorisoi-chat.jp/)
 - [ネットの居場所ポータルサイト「死にたい」のトリセツ](https://shinitori.net/)
+- [生きづLABO](https://ikidulabo.lifelink.or.jp/)
