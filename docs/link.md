@@ -25,6 +25,7 @@ sidebar_position: 4
 ### 不登校
 
 - [不登校情報センター](http://www.futoko.info/)
+- [#学校ムリでもここあるよ](https://cocoaru.org/)
 
 ### ひきこもり
 
@@ -49,9 +50,12 @@ sidebar_position: 4
 
 - [まもろうよ　こころ｜厚生労働省](https://www.mhlw.go.jp/mamorouyokokoro/)
 - [チャイルドライン](https://childline.or.jp/)
+- [いのちSOS](https://www.lifelink.or.jp/inochisos/)
+- [よりそいホットライン](https://www.since2011.net/yorisoi/)
 
 ### 行政
 
+- [かくれてしまえばいいのです](https://kakurega.lifelink.or.jp/)
 - [生きづらびっと](https://yorisoi-chat.jp/)
 - [ネットの居場所ポータルサイト「死にたい」のトリセツ](https://shinitori.net/)
 - [生きづLABO](https://ikidulabo.lifelink.or.jp/)
