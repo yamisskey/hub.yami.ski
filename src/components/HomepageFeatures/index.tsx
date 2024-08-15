@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/heart-unlock-svgrepo-com.svg').default,
     description: (
       <>
-        法律に違反しない限り、病みノートをできるかぎり規制しません。心の鎧を脱げる、自由になれる居場所を目指しています。
+        法律に違反しない限り、病みノートをできるかぎり検閲しません。心の鎧を脱げる、自由になれる居場所を目指しています。
       </>
     ),
   },
@@ -23,7 +23,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/lock-svgrepo-com.svg').default,
     description: (
       <>
-        個人情報の扱いに細心の注意を払います。ノーログポリシーです。IPアドレスを記録せず、Tor/VPN接続を規制しません。
+        個人情報の扱いに細心の注意を払います。ノーログポリシーです。IPアドレスを記録せず、Tor/VPN接続を検閲しません。
       </>
     ),
   },
