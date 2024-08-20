@@ -102,12 +102,12 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Discord',
-              href: 'https://discord.gg/nGZgf3NRZU',
-            },
-            {
               label: 'Misskey',
               href: 'https://yami.ski/',
+            },
+            {
+              label: 'Element',
+              href: 'https://element.yami.ski',
             },
           ],
         },
