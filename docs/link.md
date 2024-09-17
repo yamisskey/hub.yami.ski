@@ -14,6 +14,7 @@ sidebar_position: 4
 - [Misskey精神疾患部 | Misskey.io](https://misskey.io/channels/9b8huyo5e3)
 - [Misskey発達障害部 | Misskey.io](https://misskey.io/channels/9pw71d6krs4602af)
 - [mental.social](https://mental.social/)
+- [めんへらんど](https://menhe.land/)
 
 ### Discord
 
