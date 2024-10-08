@@ -1,30 +1,27 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
-
-/* You can override the default Infima variables here. */
 :root {
-    --ifm-color-primary: #6A5DD8;
+    --ifm-color-primary: #6A5DD8; /* Misskey accent color */
     --ifm-color-primary-dark: #483D8B;
     --ifm-color-primary-darker: #2B2B2B;
     --ifm-color-primary-darkest: #232323;
     --ifm-color-primary-light: #A0458F;
     --ifm-color-primary-lighter: #A850D4;
-    --ifm-color-primary-lightest: #B86FDc;
+    --ifm-color-primary-lightest: #B86FDC;
+    --ifm-background-color: #FAFAFA; /* Misskey bg color */
+    --ifm-color-text: #2E2B5F; /* Misskey fg color */
     --ifm-code-font-size: 95%;
-    --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.07);
+    --docusaurus-highlighted-code-line-bg: rgba(34, 34, 34, 0.08); /* Misskey light theme highlight */
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-    --ifm-color-primary: #6A5DD8;
+    --ifm-color-primary: #6A5DD8; /* Misskey accent color */
     --ifm-color-primary-dark: #483D8B;
     --ifm-color-primary-darker: #2B2B2B;
     --ifm-color-primary-darkest: #232323;
     --ifm-color-primary-light: #A0458F;
     --ifm-color-primary-lighter: #A850D4;
-    --ifm-color-primary-lightest: #B86FDc;
-    --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.07);
+    --ifm-color-primary-lightest: #B86FDC;
+    --ifm-background-color: #101026; /* Misskey dark theme bg */
+    --ifm-color-text: #A0A0A0; /* Misskey dark theme fg */
+    --ifm-code-font-size: 95%;
+    --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.07); /* Misskey dark theme highlight */
 }
