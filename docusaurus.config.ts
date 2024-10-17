@@ -44,8 +44,8 @@ const config: Config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          //editUrl:
+          //  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -72,7 +72,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'ブログ', position: 'left'},
         {
-          href: 'https://github.com/yamisskey/yamisskey',
+          href: 'https://github.com/yamisskey',
           label: 'GitHub',
           position: 'right',
         },
@@ -85,16 +85,16 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'やみすきーについて',
-              to: '/docs/about',
-            },
-            {
               label: '利用規約',
               to: '/docs/term',
             },
             {
               label: 'プライバシーポリシー',
               to: '/docs/privacy',
+            },
+            {
+              label: 'モデレーション原則',
+              to: '/docs/moderation',
             },
           ],
         },
@@ -109,18 +109,22 @@ const config: Config = {
               label: 'Element',
               href: 'https://element.yami.ski',
             },
+            {
+              label: 'Telegram',
+              href: 'https://t.me/yamisskey',
+            },
           ],
         },
         {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'CTF',
+              href: 'https://ctf.yami.ski/',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/orgs/yamisskey/repositories',
+              label: 'SearXNG',
+              href: 'https://search.yami.ski',
             },
           ],
         },
