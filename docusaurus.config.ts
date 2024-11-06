@@ -56,7 +56,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/ogBanner.jpg',
+    image: 'img/ogBanner.gif',
     navbar: {
       title: 'yamisskey',
       logo: {
