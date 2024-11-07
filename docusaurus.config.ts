@@ -126,6 +126,10 @@ const config: Config = {
               label: 'SearXNG',
               href: 'https://search.yami.ski',
             },
+            {
+              label: 'Jitsi',
+              href: 'https://jitsi.yami.ski',
+            },
           ],
         },
       ],
